@@ -1,9 +1,12 @@
 .DS_Store
+composer.lock
 phpcs.xml
 phpunit.xml
 Thumbs.db
 wp-cli.local.yml
 node_modules/
+vendor/
+languages/
 *.sql
 *.tar.gz
 *.zip
